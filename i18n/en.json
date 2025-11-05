@@ -1,0 +1,19 @@
+{
+  "nav_home": "Home",
+  "nav_apps": "Apps",
+  "nav_ext": "Extensions",
+  "nav_os": "OS Releases",
+  "nav_articles": "Articles",
+  "nav_products": "Products",
+  "nav_note": "Favorites are available without login",
+  "privacy": "Privacy",
+  "contacts": "Contacts",
+  "search_placeholder": "Search the site",
+  "favorites": "Favorites",
+  "download": "Download",
+  "nothing": "Nothing found",
+  "fav_add": "★ Add to favorites",
+  "fav_in": "✓ In favorites",
+  "fav_empty": "No favorites yet",
+  "notfound": "Item not found"
+}
