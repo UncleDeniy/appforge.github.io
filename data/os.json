@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "os-ubuntu-2404",
+      "title": "Ubuntu 24.04 LTS",
+      "date": "2024-10-01",
+      "rating": 5,
+      "categories": [
+        "Linux"
+      ],
+      "tags": [
+        "LTS",
+        "GNOME"
+      ],
+      "url_official": "https://ubuntu.com",
+      "images": [
+        "assets/img/os1-1.png"
+      ],
+      "desc": "Свежий LTS-релиз на GNOME, стабильность и поддержка 5 лет."
+    },
+    {
+      "id": "os-arch-cli",
+      "title": "Arch Linux (CLI)",
+      "date": "2024-11-11",
+      "rating": 4,
+      "categories": [
+        "Linux"
+      ],
+      "tags": [
+        "Rolling",
+        "CLI"
+      ],
+      "url_official": "https://archlinux.org",
+      "images": [
+        "assets/img/os2-1.png"
+      ],
+      "desc": "Rolling релизы, минимализм, полная гибкость."
+    }
+  ]
+}

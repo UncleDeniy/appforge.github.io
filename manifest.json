@@ -1,0 +1,15 @@
+{
+  "name": "AppForge",
+  "short_name": "AppForge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b10",
+  "theme_color": "#0b1116",
+  "icons": [
+    {
+      "src": "assets/img/logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
