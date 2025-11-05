@@ -8,24 +8,12 @@
         "Видео",
         "Утилиты"
       ],
-      "rating": 5,
-      "tags": [
-        "YouTube",
-        "4K",
-        "Playlist"
-      ],
       "file_url": "files/4k-video-demo.zip",
       "url_official": "https://4kdownload.com",
       "images": [
-        "assets/img/app1-1.png",
-        "assets/img/app1-2.png"
+        "assets/img/app1.png"
       ],
-      "video": "assets/img/4kvd-demo.mp4",
-      "desc": "Скачивание видео и плейлистов в 4K/8K, конвертация, субтитры.",
-      "activation_methods": [
-        "Лицензионный ключ",
-        "Оффлайн-активация"
-      ]
+      "desc": "Скачивание 4K/8K."
     },
     {
       "id": "app-bettermouse",
@@ -34,130 +22,38 @@
       "categories": [
         "Система"
       ],
-      "rating": 4,
-      "tags": [
-        "Mouse",
-        "Tuning"
-      ],
       "file_url": "files/bettermouse-demo.zip",
       "url_official": "https://example.com/bettermouse",
       "images": [
-        "assets/img/app2-1.png"
+        "assets/img/app2.png"
       ],
-      "desc": "Тонкая настройка мыши, ускорение курсора, профили.",
-      "activation_methods": [
-        "Серийный номер",
-        "Аккаунт"
-      ]
-    },
-    {
-      "id": "app-kaleidoscope",
-      "title": "Kaleidoscope",
-      "date": "2024-12-10",
-      "categories": [
-        "Файлы",
-        "Сравнение"
-      ],
-      "rating": 4,
-      "tags": [
-        "Diff",
-        "Git"
-      ],
-      "url_official": "https://example.com/kaleidoscope",
-      "images": [
-        "assets/img/app3-1.png"
-      ],
-      "desc": "Профессиональное сравнение файлов/папок с интеграцией git."
+      "desc": "Настройка мыши."
     },
     {
       "id": "os-ubuntu-2404",
       "title": "Ubuntu 24.04 LTS",
       "date": "2024-10-01",
-      "rating": 5,
       "categories": [
         "Linux"
-      ],
-      "tags": [
-        "LTS",
-        "GNOME"
       ],
       "url_official": "https://ubuntu.com",
       "images": [
-        "assets/img/os1-1.png"
+        "assets/img/os1.png"
       ],
-      "desc": "Свежий LTS-релиз на GNOME, стабильность и поддержка 5 лет."
-    },
-    {
-      "id": "os-arch-cli",
-      "title": "Arch Linux (CLI)",
-      "date": "2024-11-11",
-      "rating": 4,
-      "categories": [
-        "Linux"
-      ],
-      "tags": [
-        "Rolling",
-        "CLI"
-      ],
-      "url_official": "https://archlinux.org",
-      "images": [
-        "assets/img/os2-1.png"
-      ],
-      "desc": "Rolling релизы, минимализм, полная гибкость."
+      "desc": "Новый LTS-релиз."
     },
     {
       "id": "art-linux-choice",
       "title": "Как выбрать дистрибутив Linux",
       "date": "2024-07-01",
-      "rating": 5,
       "categories": [
         "Гайды"
       ],
-      "tags": [
-        "Linux",
-        "Guide"
-      ],
       "images": [
-        "assets/img/article1.png"
+        "assets/img/art1.png"
       ],
       "url_official": "articles/linux-choice.html",
-      "desc": "Большое руководство по выбору Linux-дистрибутива."
-    },
-    {
-      "id": "art-top10-linux-2025",
-      "title": "10 лучших Linux-дистрибутивов 2025",
-      "date": "2025-03-20",
-      "rating": 5,
-      "categories": [
-        "Обзоры"
-      ],
-      "tags": [
-        "Linux",
-        "Top10"
-      ],
-      "images": [
-        "assets/img/article2.png"
-      ],
-      "url_official": "articles/top10-linux-2025.html",
-      "desc": "Подробный рейтинг с плюсами и минусами."
-    },
-    {
-      "id": "art-choose-antivirus",
-      "title": "Как выбрать антивирус и не пожалеть",
-      "date": "2025-02-18",
-      "rating": 4,
-      "categories": [
-        "Безопасность"
-      ],
-      "tags": [
-        "Antivirus",
-        "Security"
-      ],
-      "images": [
-        "assets/img/article3.png"
-      ],
-      "url_official": "articles/choose-antivirus.html",
-      "desc": "Практическое руководство: критерии выбора, тесты, советы."
+      "desc": "Руководство."
     }
   ]
 }
